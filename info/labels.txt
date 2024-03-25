@@ -1,0 +1,5 @@
+pacote_3c
+pacote_cinza
+pacote_extraforte
+pacote_fort
+pacote_moido
